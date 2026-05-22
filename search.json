@@ -25,27 +25,20 @@
     "href": "index.html",
     "title": "Antara’s ePortfolio",
     "section": "",
-    "text": "title: “Antara’s ePortfolio”"
+    "text": "I am a graduate student pursuing a Master of Science in Applied Business Analytics at Boston University."
   },
   {
     "objectID": "index.html#about",
     "href": "index.html#about",
     "title": "Antara’s ePortfolio",
-    "section": "About",
-    "text": "About\nI am a graduate student pursuing a Master of Science in Applied Business Analytics at Boston University."
+    "section": "",
+    "text": "I am a graduate student pursuing a Master of Science in Applied Business Analytics at Boston University."
   },
   {
     "objectID": "index.html#python-demo",
     "href": "index.html#python-demo",
     "title": "Antara’s ePortfolio",
     "section": "Python Demo",
-    "text": "Python Demo\nimport pandas as pd\ndata = {“Skill”: [“SQL”, “Python”, “R”], “Category”: [“Database”, “Programming”, “Statistics”]} df = pd.DataFrame(data) print(df) ```author: “Antara Sudhir” date: today format: html: theme: journal toc: true —"
-  },
-  {
-    "objectID": "index.html#about-1",
-    "href": "index.html#about-1",
-    "title": "Antara’s ePortfolio",
-    "section": "About",
-    "text": "About\nThis website is the portfolio that I created for the AD 688 class at Boston University."
+    "text": "Python Demo\n\nimport pandas as pd\n\ndata = {\"Skill\": [\"SQL\", \"Python\", \"R\"], \"Category\": [\"Database\", \"Programming\", \"Statistics\"]}\ndf = pd.DataFrame(data)\nprint(df)\n\n    Skill     Category\n0     SQL     Database\n1  Python  Programming\n2       R   Statistics"
   }
 ]
