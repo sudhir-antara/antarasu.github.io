@@ -1,7 +1,4 @@
 ---
-
-title: "Antara's ePortfolio"
----
 title: "Antara's ePortfolio"
 author: "Antara Sudhir"
 date: today
@@ -22,14 +19,5 @@ import pandas as pd
 data = {"Skill": ["SQL", "Python", "R"], "Category": ["Database", "Programming", "Statistics"]}
 df = pd.DataFrame(data)
 print(df)
-```author: "Antara Sudhir"
-date: today
-format:
-  html:
-    theme: journal
-    toc: true
----
+```
 
-## About
-
-This website is the portfolio that I created for the AD 688 class at Boston University.
