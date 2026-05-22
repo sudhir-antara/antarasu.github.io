@@ -8,6 +8,6 @@ format:
     toc: true
 ---
 
-# Hi!
+# About
 
 This website is the portfolio that I created for the AD 688 class at Boston University.
