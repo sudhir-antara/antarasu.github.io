@@ -1,6 +1,28 @@
 ---
+
+title: "Antara's ePortfolio"
+---
 title: "Antara's ePortfolio"
 author: "Antara Sudhir"
+date: today
+format:
+  html:
+    theme: journal
+    toc: true
+---
+
+## About
+I am a graduate student pursuing a Master of Science in Applied Business Analytics at Boston University.
+
+## Python Demo
+
+```{python}
+import pandas as pd
+
+data = {"Skill": ["SQL", "Python", "R"], "Category": ["Database", "Programming", "Statistics"]}
+df = pd.DataFrame(data)
+print(df)
+```author: "Antara Sudhir"
 date: today
 format:
   html:
