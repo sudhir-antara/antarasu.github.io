@@ -1,0 +1,13 @@
+---
+title: "Antara's ePortfolio"
+author: "Antara Sudhir"
+date: "`r Sys.Date()`"
+format:
+  html:
+    theme: journal
+    toc: true
+---
+
+# Hi!
+
+This website is the portfolio that I created for the AD 688 class at Boston University.
