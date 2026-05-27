@@ -1,2 +1,2 @@
 # antarasu.github.io
-Restructuring Lightcast job postings data into relational tables.
+This is my portfolio site for AD 688Connected from EC2
