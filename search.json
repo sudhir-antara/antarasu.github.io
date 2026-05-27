@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "I work at the intersection of data engineering and analytics - building pipelines that run reliably and dashboards that stakeholders actually trust. Over the past two years, I’ve built production systems in Microsoft Fabric: Medallion architectures, automated ETL with Python and SQL, and Power BI reporting that non-technical teams can act on without questioning the numbers.\nAt iLink Digital, I delivered end-to-end client solutions across the full data lifecycle - migrating 40+ SQL Server objects into Fabric, translating business requirements into technical specs, and keeping every deliverable on schedule.\nI’m now pursuing an M.S. in Applied Business Analytics at Boston University, where I’m focused on one thing: making technical depth legible to the people who need to act on it."
-  },
-  {
-    "objectID": "about.html#about-me",
-    "href": "about.html#about-me",
-    "title": "About",
-    "section": "",
-    "text": "I work at the intersection of data engineering and analytics - building pipelines that run reliably and dashboards that stakeholders actually trust. Over the past two years, I’ve built production systems in Microsoft Fabric: Medallion architectures, automated ETL with Python and SQL, and Power BI reporting that non-technical teams can act on without questioning the numbers.\nAt iLink Digital, I delivered end-to-end client solutions across the full data lifecycle - migrating 40+ SQL Server objects into Fabric, translating business requirements into technical specs, and keeping every deliverable on schedule.\nI’m now pursuing an M.S. in Applied Business Analytics at Boston University, where I’m focused on one thing: making technical depth legible to the people who need to act on it."
-  },
-  {
-    "objectID": "about.html#skills",
-    "href": "about.html#skills",
-    "title": "About",
-    "section": "Skills",
-    "text": "Skills\n\nPython\nSQL\nR\nMicrosoft Fabric\nPower BI\nETL Pipeline Development\nData Engineering"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Antara’s ePortfolio",
@@ -40,5 +19,26 @@
     "title": "Antara’s ePortfolio",
     "section": "Python Demo",
     "text": "Python Demo\n\nimport pandas as pd\n\ndata = {\"Skill\": [\"SQL\", \"Python\", \"R\"], \"Category\": [\"Database\", \"Programming\", \"Statistics\"]}\ndf = pd.DataFrame(data)\nprint(df)\n\n    Skill     Category\n0     SQL     Database\n1  Python  Programming\n2       R   Statistics"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I work at the intersection of data engineering and analytics - building pipelines that run reliably and dashboards that stakeholders actually trust. Over the past two years, I’ve built production systems in Microsoft Fabric: Medallion architectures, automated ETL with Python and SQL, and Power BI reporting that non-technical teams can act on without questioning the numbers.\nAt iLink Digital, I delivered end-to-end client solutions across the full data lifecycle - migrating 40+ SQL Server objects into Fabric, translating business requirements into technical specs, and keeping every deliverable on schedule.\nI’m now pursuing an M.S. in Applied Business Analytics at Boston University, where I’m focused on one thing: making technical depth legible to the people who need to act on it."
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "About",
+    "section": "",
+    "text": "I work at the intersection of data engineering and analytics - building pipelines that run reliably and dashboards that stakeholders actually trust. Over the past two years, I’ve built production systems in Microsoft Fabric: Medallion architectures, automated ETL with Python and SQL, and Power BI reporting that non-technical teams can act on without questioning the numbers.\nAt iLink Digital, I delivered end-to-end client solutions across the full data lifecycle - migrating 40+ SQL Server objects into Fabric, translating business requirements into technical specs, and keeping every deliverable on schedule.\nI’m now pursuing an M.S. in Applied Business Analytics at Boston University, where I’m focused on one thing: making technical depth legible to the people who need to act on it."
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About",
+    "section": "Skills",
+    "text": "Skills\n\nPython\nSQL\nR\nMicrosoft Fabric\nPower BI\nETL Pipeline Development\nData Engineering"
   }
 ]
