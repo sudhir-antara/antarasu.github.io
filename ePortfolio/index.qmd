@@ -18,10 +18,6 @@ about:
 
 ::: {#hero-heading}
 
-## Data In. Direction Out.
-
-Applied Business Analytics student with hands-on experience across the full analytics pipeline. Experienced in transforming raw, complex data into insights that actually drive business decisions.
-
 ### About Me
 
 I work at the intersection of data engineering and analytics—building pipelines that run reliably and dashboards that stakeholders trust. Over the past two years, I've built production systems utilizing Medallion architectures, automated ETL with Python and SQL, and reporting solutions that cross-functional teams act on with confidence.
