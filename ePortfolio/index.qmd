@@ -3,7 +3,7 @@ title: "Antara Sudhir"
 subtitle: "MS in Applied Business Analytics | Boston University"
 about:
   template: trestles
-  image: "" # You can drop a file path here (e.g. avatar.jpg) if you add a profile picture later
+  image: "" # Leave blank or add an image file path later
   links:
     - icon: linkedin
       text: LinkedIn
@@ -15,6 +15,8 @@ about:
       text: Email
       href: mailto:antara.sudhir@gmail.com
 ---
+
+::: {#hero-heading}
 
 ## Data In. Direction Out.
 
@@ -36,3 +38,5 @@ Graduate study focused on analytics, machine learning, and data-driven decision 
 
 **University of London · Singapore Institute of Management**  
 *Bachelor of Science (Honors), Economics and Management*
+
+:::
