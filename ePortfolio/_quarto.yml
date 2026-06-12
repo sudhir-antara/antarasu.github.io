@@ -1,21 +1,36 @@
 project:
   type: website
+  output-dir: ../docs
 
 website:
-  title: "Antara Sudhir ePortfolio"
+  title: "Antara Sudhir"
+  site-url: "https://sudhir-antara.github.io/antarasu.github.io/"
+  
   navbar:
+    background: primary
+    search: false
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: experience.qmd
+        text: Experience
+      - href: projects.qmd
+        text: Projects
+      - href: credentials.qmd
+        text: Credentials & Skills
+    right:
+      - icon: github
+        href: https://github.com/sudhir-antara
+      - icon: linkedin
+        href: https://www.linkedin.com/in/antarasudhir
+      - icon: envelope
+        href: mailto:antara.sudhir@gmail.com
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: flatly
     css: styles.css
     toc: true
-
+    toc-depth: 3
 
 
