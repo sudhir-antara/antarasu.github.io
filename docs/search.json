@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Antara Sudhir",
+    "section": "",
+    "text": "Applied Business Analytics student with hands-on experience across the full analytics pipeline. Experienced in transforming raw, complex data into insights that actually drive business decisions.\n\n\nI work at the intersection of data engineering and analytics—building pipelines that run reliably and dashboards that stakeholders trust. Over the past two years, I’ve built production systems utilizing Medallion architectures, automated ETL with Python and SQL, and reporting solutions that cross-functional teams act on with confidence.\nI delivered end-to-end client solutions across the full data lifecycle—migrating legacy SQL objects, translating business requirements into technical specs, and keeping critical data deliverables on schedule.\nI am currently pursuing my M.S. in Applied Business Analytics at Boston University, where I focus on making deep technical architecture accessible and highly legible to business stakeholders.\n\n\n\nBoston University\nMaster of Science, Applied Business Analytics\nGraduate study focused on analytics, machine learning, and data-driven decision making in business contexts.\nUniversity of London · Singapore Institute of Management\nBachelor of Science (Honors), Economics and Management"
+  },
+  {
+    "objectID": "index.html#data-in.-direction-out.",
+    "href": "index.html#data-in.-direction-out.",
+    "title": "Antara Sudhir",
+    "section": "",
+    "text": "Applied Business Analytics student with hands-on experience across the full analytics pipeline. Experienced in transforming raw, complex data into insights that actually drive business decisions.\n\n\nI work at the intersection of data engineering and analytics—building pipelines that run reliably and dashboards that stakeholders trust. Over the past two years, I’ve built production systems utilizing Medallion architectures, automated ETL with Python and SQL, and reporting solutions that cross-functional teams act on with confidence.\nI delivered end-to-end client solutions across the full data lifecycle—migrating legacy SQL objects, translating business requirements into technical specs, and keeping critical data deliverables on schedule.\nI am currently pursuing my M.S. in Applied Business Analytics at Boston University, where I focus on making deep technical architecture accessible and highly legible to business stakeholders.\n\n\n\nBoston University\nMaster of Science, Applied Business Analytics\nGraduate study focused on analytics, machine learning, and data-driven decision making in business contexts.\nUniversity of London · Singapore Institute of Management\nBachelor of Science (Honors), Economics and Management"
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Professional Experience",
+    "section": "",
+    "text": "Software Engineer\niLink Digital | Apr 2025 — Nov 2025\n\nRecreated 40+ SQL Server stored procedures and scalar functions in Microsoft Fabric Warehouse, cutting migration time from 5+ weeks to 2 weeks and enabling scalable client reporting.\nMigrated and consolidated 80+ data sources—including 30+ SQL Server tables, 20+ Oracle tables, and 30+ manual Excel/CSV files—into structured, reporting-ready tables within Microsoft Fabric.\nImplemented a 3-layer Medallion architecture within a single Lakehouse (comprising 30+ Bronze, 20+ Silver, and 20+ Gold tables), enabling the delivery of 40+ client-facing reports with improved data quality.\nPartnered with clients and 2 cross-functional teams to gather requirements, troubleshoot data issues, and deliver timely and accurate reporting solutions.\n\n\n\n\nSoftware Engineer Trainee\niLink Digital | Feb 2024 — Mar 2025\n\nAwarded Rising Star for BU: Recognized with the iLink Digital Award - Rising Star for delivering high-quality data solutions and earning appreciation from senior leadership and clients.\nMigrated and consolidated 60+ data sources, including 30+ SSMS tables and 30+ manual Excel/CSV files from SharePoint and Azure into structured, reporting-ready tables within Microsoft Fabric.\nImplemented a 3-layer Medallion architecture across 2 Lakehouses, supporting 2 reporting phases and enabling delivery of 40+ reports in Phase 1 and 60+ reports in Phase 2.\nDesigned and automated a quarterly data collection pipeline using Fabric—generating 90+ Excel templates annually across 7 business units, reading submissions back into tables to ensure up-to-date reporting.\nBuilt and deployed 4 data pipelines across Bronze, Silver, and Gold layers using Microsoft Data Factory and Spark notebooks to enable scalable automated analytics workflows.\n\n\n\n\nData Intern\niLink Digital | Oct 2023 — Jan 2024\n\nSupported 3 senior analysts with data preparation, validation, and execution of data analysis workflows across real-world analytics projects.\nExtracted data from multiple sources through pipelines, performing data cleaning and transformation to ensure high-quality datasets.\nIndependently designed wireframes in Figma and developed 2 client-ready dashboards in Microsoft Fabric tailored to the oil and gas vertical.\nApplied Databricks, Python, SQL, Azure, Snowflake, Microsoft Fabric, and Power BI across real-world analytics projects, building hands-on expertise in end-to-end data workflows."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Note🏆 ABA@BU — Intertemporal Choice & Subscription Strategy\n\n\n\nCategory: Hackathon · 1st Place Winner\nBusiness Question: How do people trade off immediate convenience versus long-term value—and how can we use that to support tier optimization, customer lifetime value, and personalized engagement?\nBuilt a predictive modeling pipeline on a large-scale dataset. Delivered exploratory data analysis, robust feature engineering, and predictive models (including logistic regression, random forest, and XGBoost) to tie findings back to subscription-tier pricing strategies and business presentation metrics.\n🔗 GitHub Repository\n\n\n\n\n\n\n\n\nNote⚽ Sports League Database Analysis\n\n\n\nCategory: Python Visualizations & Cloud Database\nLed the data engineering layer for a sports analytics data project. Built an ETL pipeline to aggregate and visualize key drivers of team success—focusing on ROI metrics like transfer value by player position, injuries, payroll dynamics, and overall roster construction.\n🔗 GitHub Repository\n\n\n\n\n\n\n\n\nNote📈 Customer Churn Prediction\n\n\n\nCategory: Machine Learning Pipeline\nBuilt a machine learning classification model to flag at-risk customers, designing a clean and repeatable ETL pipeline containing structural data encoding, feature selection matrices, and class balancing methods to pull actionable client retention triggers.\n🔗 GitHub Repository"
+  },
+  {
+    "objectID": "credentials.html",
+    "href": "credentials.html",
+    "title": "Skills & Credentials",
+    "section": "",
+    "text": "Technical Skills\nLanguages\nPython, SQL, R, PySpark\nData Engineering\nMicrosoft Fabric, Databricks\nVisualization & Reporting\nPower BI, Microsoft Excel, Figma\nWorkflow & DevOps\nJira, VS Code, GitHub\n\n\n\n\n\nCertifications\n\nMicrosoft Certified: Power BI Data Analyst Associate\nDatabricks Certified Data Engineer Associate\nMicrosoft Certified: Fabric Analytics Engineer Associate\nGenerative AI Fundamentals — Databricks Academy Accreditation\nDatabricks Lakehouse Fundamentals — Databricks Academy Accreditation\n\n\n\nAwards\n\n🥇 Winner — 12th ABA@BU Hackathon · Boston University\n⭐ Rising Star Award (BU: Data & RPA) · iLink Digital"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I work at the intersection of data engineering and analytics - building pipelines that run reliably and dashboards that stakeholders actually trust. Over the past two years, I’ve built production systems in Microsoft Fabric: Medallion architectures, automated ETL with Python and SQL, and Power BI reporting that non-technical teams can act on without questioning the numbers.\nAt iLink Digital, I delivered end-to-end client solutions across the full data lifecycle - migrating 40+ SQL Server objects into Fabric, translating business requirements into technical specs, and keeping every deliverable on schedule.\nI’m now pursuing an M.S. in Applied Business Analytics at Boston University, where I’m focused on one thing: making technical depth legible to the people who need to act on it."
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "About",
+    "section": "",
+    "text": "I work at the intersection of data engineering and analytics - building pipelines that run reliably and dashboards that stakeholders actually trust. Over the past two years, I’ve built production systems in Microsoft Fabric: Medallion architectures, automated ETL with Python and SQL, and Power BI reporting that non-technical teams can act on without questioning the numbers.\nAt iLink Digital, I delivered end-to-end client solutions across the full data lifecycle - migrating 40+ SQL Server objects into Fabric, translating business requirements into technical specs, and keeping every deliverable on schedule.\nI’m now pursuing an M.S. in Applied Business Analytics at Boston University, where I’m focused on one thing: making technical depth legible to the people who need to act on it."
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About",
+    "section": "Skills",
+    "text": "Skills\n\nPython\nSQL\nR\nMicrosoft Fabric\nPower BI\nETL Pipeline Development\nData Engineering"
+  }
+]
