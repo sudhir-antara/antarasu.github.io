@@ -2,9 +2,8 @@
 title: "Antara Sudhir"
 subtitle: "MS in Applied Business Analytics | Boston University"
 about:
-  template: jolla
-  image-width: 15em
-  image-shape: round
+  template: trestles
+  image: "" # You can drop a file path here (e.g. avatar.jpg) if you add a profile picture later
   links:
     - icon: linkedin
       text: LinkedIn
