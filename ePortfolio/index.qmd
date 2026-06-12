@@ -1,23 +1,39 @@
 ---
-title: "Antara's ePortfolio"
-author: "Antara Sudhir"
-date: today
-format:
-  html:
-    theme: journal
-    toc: true
+title: "Antara Sudhir"
+subtitle: "MS in Applied Business Analytics | Boston University"
+about:
+  template: jolla
+  image-width: 15em
+  image-shape: round
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/antarasudhir
+    - icon: github
+      text: GitHub
+      href: https://github.com/sudhir-antara
+    - icon: envelope
+      text: Email
+      href: mailto:antara.sudhir@gmail.com
 ---
 
-## About
-I am a graduate student pursuing a Master of Science in Applied Business Analytics at Boston University.
+## Data In. Direction Out.
 
-## Python Demo
+Applied Business Analytics student with hands-on experience across the full analytics pipeline. Experienced in transforming raw, complex data into insights that actually drive business decisions.
 
-```{python}
-import pandas as pd
+### About Me
 
-data = {"Skill": ["SQL", "Python", "R"], "Category": ["Database", "Programming", "Statistics"]}
-df = pd.DataFrame(data)
-print(df)
-```
+I work at the intersection of data engineering and analytics—building pipelines that run reliably and dashboards that stakeholders trust. Over the past two years, I've built production systems utilizing Medallion architectures, automated ETL with Python and SQL, and reporting solutions that cross-functional teams act on with confidence.
 
+I delivered end-to-end client solutions across the full data lifecycle—migrating legacy SQL objects, translating business requirements into technical specs, and keeping critical data deliverables on schedule.
+
+I am currently pursuing my M.S. in Applied Business Analytics at Boston University, where I focus on making deep technical architecture accessible and highly legible to business stakeholders.
+
+### Education
+
+**Boston University**  
+*Master of Science, Applied Business Analytics*  
+Graduate study focused on analytics, machine learning, and data-driven decision making in business contexts.
+
+**University of London · Singapore Institute of Management**  
+*Bachelor of Science (Honors), Economics and Management*
