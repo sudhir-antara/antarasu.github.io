@@ -2,23 +2,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Antara’s ePortfolio",
+    "title": "Antara Sudhir",
     "section": "",
-    "text": "I am a graduate student pursuing a Master of Science in Applied Business Analytics at Boston University."
+    "text": "Applied Business Analytics student with hands-on experience across the full analytics pipeline. Experienced in transforming raw, complex data into insights that actually drive business decisions.\n\n\nI work at the intersection of data engineering and analytics—building pipelines that run reliably and dashboards that stakeholders trust. Over the past two years, I’ve built production systems utilizing Medallion architectures, automated ETL with Python and SQL, and reporting solutions that cross-functional teams act on with confidence.\nI delivered end-to-end client solutions across the full data lifecycle—migrating legacy SQL objects, translating business requirements into technical specs, and keeping critical data deliverables on schedule.\nI am currently pursuing my M.S. in Applied Business Analytics at Boston University, where I focus on making deep technical architecture accessible and highly legible to business stakeholders.\n\n\n\nBoston University\nMaster of Science, Applied Business Analytics\nGraduate study focused on analytics, machine learning, and data-driven decision making in business contexts.\nUniversity of London · Singapore Institute of Management\nBachelor of Science (Honors), Economics and Management"
   },
   {
-    "objectID": "index.html#about",
-    "href": "index.html#about",
-    "title": "Antara’s ePortfolio",
+    "objectID": "index.html#data-in.-direction-out.",
+    "href": "index.html#data-in.-direction-out.",
+    "title": "Antara Sudhir",
     "section": "",
-    "text": "I am a graduate student pursuing a Master of Science in Applied Business Analytics at Boston University."
-  },
-  {
-    "objectID": "index.html#python-demo",
-    "href": "index.html#python-demo",
-    "title": "Antara’s ePortfolio",
-    "section": "Python Demo",
-    "text": "Python Demo\n\nimport pandas as pd\n\ndata = {\"Skill\": [\"SQL\", \"Python\", \"R\"], \"Category\": [\"Database\", \"Programming\", \"Statistics\"]}\ndf = pd.DataFrame(data)\nprint(df)\n\n    Skill     Category\n0     SQL     Database\n1  Python  Programming\n2       R   Statistics"
+    "text": "Applied Business Analytics student with hands-on experience across the full analytics pipeline. Experienced in transforming raw, complex data into insights that actually drive business decisions.\n\n\nI work at the intersection of data engineering and analytics—building pipelines that run reliably and dashboards that stakeholders trust. Over the past two years, I’ve built production systems utilizing Medallion architectures, automated ETL with Python and SQL, and reporting solutions that cross-functional teams act on with confidence.\nI delivered end-to-end client solutions across the full data lifecycle—migrating legacy SQL objects, translating business requirements into technical specs, and keeping critical data deliverables on schedule.\nI am currently pursuing my M.S. in Applied Business Analytics at Boston University, where I focus on making deep technical architecture accessible and highly legible to business stakeholders.\n\n\n\nBoston University\nMaster of Science, Applied Business Analytics\nGraduate study focused on analytics, machine learning, and data-driven decision making in business contexts.\nUniversity of London · Singapore Institute of Management\nBachelor of Science (Honors), Economics and Management"
   },
   {
     "objectID": "about.html",
