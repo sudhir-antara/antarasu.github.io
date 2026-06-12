@@ -1,0 +1,33 @@
+---
+title: "Projects"
+subtitle: "Selected project work—from hackathon analytics to machine learning."
+---
+
+::: {.callout-note appearance="simple" icon=false}
+## 🏆 ABA@BU — Intertemporal Choice & Subscription Strategy
+**Category:** Hackathon · 1st Place Winner
+
+**Business Question:** How do people trade off immediate convenience versus long-term value—and how can we use that to support tier optimization, customer lifetime value, and personalized engagement? 
+
+Built a predictive modeling pipeline on a large-scale dataset. Delivered exploratory data analysis, robust feature engineering, and predictive models (including logistic regression, random forest, and XGBoost) to tie findings back to subscription-tier pricing strategies and business presentation metrics.
+
+[🔗 GitHub Repository](https://github.com/antarasudhir/ABA-Hackathon-2026/tree/main)
+:::
+
+::: {.callout-note appearance="simple" icon=false}
+## ⚽ Sports League Database Analysis
+**Category:** Python Visualizations & Cloud Database
+
+Led the data engineering layer for a sports analytics data project. Built an ETL pipeline to aggregate and visualize key drivers of team success—focusing on ROI metrics like transfer value by player position, injuries, payroll dynamics, and overall roster construction.
+
+[🔗 GitHub Repository](https://github.com/antarasudhir/Sports-League-Database-Analysis)
+:::
+
+::: {.callout-note appearance="simple" icon=false}
+## 📈 Customer Churn Prediction
+**Category:** Machine Learning Pipeline
+
+Built a machine learning classification model to flag at-risk customers, designing a clean and repeatable ETL pipeline containing structural data encoding, feature selection matrices, and class balancing methods to pull actionable client retention triggers.
+
+[🔗 GitHub Repository](https://github.com/antarasudhir/Customer-Churn-Prediction)
+:::
