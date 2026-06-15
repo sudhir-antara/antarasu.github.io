@@ -4,10 +4,12 @@ project:
 
 website:
   title: "Antara Sudhir"
-  site-url: "https://sudhir-antara.github.io/antarasu.github.io/"
+  site-url: "https://antarasu.github.io"
+  favicon: ""
   
   navbar:
-    background: primary
+    background: dark
+    foreground: light
     search: false
     left:
       - href: index.qmd
@@ -28,9 +30,6 @@ website:
 
 format:
   html:
-    theme: flatly
+    theme: darkly
     css: styles.css
-    toc: true
-    toc-depth: 3
-
-
+    toc: false
