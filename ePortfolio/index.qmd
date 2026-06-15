@@ -2,7 +2,7 @@
 title: "Antara Sudhir"
 subtitle: "MS in Applied Business Analytics | Boston University"
 about:
-  template: trestles
+  template: solana
   image: "" # Leave blank or add an image file path later
   links:
     - icon: linkedin
