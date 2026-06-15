@@ -1,151 +1,196 @@
+/* ===== IMPORT FONTS ===== */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
+
 /* ===== GLOBAL ===== */
+* {
+  box-sizing: border-box;
+}
+
 body {
-  font-family: 'Inter', 'Helvetica Neue', sans-serif;
-  background-color: #0a0a0a;
+  font-family: 'Inter', sans-serif;
+  background: #000000;
+  background-image: 
+    radial-gradient(ellipse at 20% 50%, rgba(120, 80, 255, 0.15) 0%, transparent 50%),
+    radial-gradient(ellipse at 80% 20%, rgba(0, 180, 255, 0.1) 0%, transparent 50%),
+    radial-gradient(ellipse at 60% 80%, rgba(255, 60, 120, 0.08) 0%, transparent 50%);
+  background-attachment: fixed;
   color: #f0f0f0;
+  min-height: 100vh;
 }
 
 /* ===== NAVBAR ===== */
 .navbar {
-  border-bottom: 2px solid #ff6b35;
-  padding: 1rem 2rem;
+  background: rgba(0, 0, 0, 0.4) !important;
+  backdrop-filter: blur(20px) saturate(180%);
+  -webkit-backdrop-filter: blur(20px) saturate(180%);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  padding: 0.8rem 2rem;
 }
 
 .navbar-brand {
-  font-size: 1.4rem;
+  font-size: 1.1rem;
   font-weight: 800;
-  letter-spacing: 2px;
+  letter-spacing: 3px;
   text-transform: uppercase;
   color: #ffffff !important;
 }
 
 .nav-link {
-  font-weight: 600;
+  font-weight: 500;
   letter-spacing: 1px;
   text-transform: uppercase;
-  font-size: 0.85rem;
-  color: #cccccc !important;
+  font-size: 0.75rem;
+  color: rgba(255,255,255,0.7) !important;
   transition: color 0.2s ease;
+  margin: 0 0.3rem;
 }
 
 .nav-link:hover {
-  color: #ff6b35 !important;
+  color: #ffffff !important;
 }
 
-/* ===== HERO SECTION ===== */
-#hero-heading {
-  padding: 4rem 0;
-}
-
+/* ===== HEADINGS ===== */
 h1 {
   font-size: 3.5rem;
   font-weight: 900;
-  letter-spacing: -1px;
-  line-height: 1.1;
-  color: #ffffff;
+  letter-spacing: -2px;
+  line-height: 1.05;
+  background: linear-gradient(135deg, #ffffff 0%, rgba(255,255,255,0.6) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
 }
 
 h2 {
-  font-size: 2rem;
+  font-size: 1.8rem;
   font-weight: 700;
-  color: #ff6b35;
-  margin-top: 2rem;
+  color: #ffffff;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
 }
 
 h3 {
-  font-size: 1.3rem;
-  font-weight: 700;
-  color: #ff6b35;
+  font-size: 1rem;
+  font-weight: 600;
+  color: rgba(255,255,255,0.5);
   text-transform: uppercase;
-  letter-spacing: 2px;
+  letter-spacing: 3px;
+  margin-bottom: 1.5rem;
 }
 
-/* ===== ACCENT LINE ===== */
-h2::after {
-  content: '';
-  display: block;
-  width: 60px;
-  height: 3px;
-  background: #ff6b35;
-  margin-top: 0.5rem;
+/* ===== GLASS CARDS ===== */
+.card, 
+.about-entity,
+blockquote,
+.callout {
+  background: rgba(255, 255, 255, 0.04);
+  backdrop-filter: blur(16px) saturate(180%);
+  -webkit-backdrop-filter: blur(16px) saturate(180%);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 16px;
+  padding: 2rem;
+  margin-bottom: 1.5rem;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.2);
+}
+
+.card:hover {
+  background: rgba(255, 255, 255, 0.07);
+  border-color: rgba(255, 255, 255, 0.15);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+}
+
+/* ===== ABOUT SECTION ===== */
+.about-links a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  background: rgba(255, 255, 255, 0.06);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  padding: 0.5rem 1.2rem;
+  border-radius: 100px;
+  color: rgba(255,255,255,0.8) !important;
+  font-weight: 500;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin: 0.3rem;
+  transition: all 0.2s ease;
+  text-decoration: none;
+}
+
+.about-links a:hover {
+  background: rgba(255, 255, 255, 0.12);
+  border-color: rgba(255, 255, 255, 0.25);
+  color: #ffffff !important;
+  transform: translateY(-1px);
+}
+
+/* ===== PARAGRAPH TEXT ===== */
+p {
+  line-height: 1.8;
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 1rem;
 }
 
 /* ===== LINKS ===== */
 a {
-  color: #ff6b35;
+  color: rgba(255,255,255,0.8);
   text-decoration: none;
-  transition: opacity 0.2s ease;
+  transition: color 0.2s ease;
 }
 
 a:hover {
-  opacity: 0.8;
-  text-decoration: none;
+  color: #ffffff;
 }
 
-/* ===== ABOUT LINKS (LinkedIn, GitHub etc) ===== */
-.about-links a {
-  border: 2px solid #ff6b35;
-  padding: 0.4rem 1rem;
-  border-radius: 4px;
-  color: #ff6b35 !important;
-  font-weight: 600;
-  font-size: 0.85rem;
+/* ===== LIST ITEMS ===== */
+ul li {
+  color: rgba(255, 255, 255, 0.7);
+  line-height: 2;
+}
+
+/* ===== DIVIDER ===== */
+hr {
+  border: none;
+  border-top: 1px solid rgba(255,255,255,0.08);
+  margin: 2rem 0;
+}
+
+/* ===== SUBTITLE ===== */
+.subtitle {
+  font-size: 1rem;
+  font-weight: 400;
+  color: rgba(255,255,255,0.5);
+  letter-spacing: 2px;
   text-transform: uppercase;
-  letter-spacing: 1px;
-  margin-right: 0.5rem;
-  transition: all 0.2s ease;
 }
 
-.about-links a:hover {
-  background: #ff6b35;
-  color: #0a0a0a !important;
+/* ===== QUARTO ABOUT TEMPLATE ===== */
+.about-image img {
+  border-radius: 16px;
+  border: 1px solid rgba(255,255,255,0.1);
 }
 
-/* ===== CARDS ===== */
-.card {
-  background: #1a1a1a;
-  border: 1px solid #2a2a2a;
-  border-radius: 8px;
-  padding: 1.5rem;
-  margin-bottom: 1.5rem;
-  transition: border-color 0.2s ease;
-}
-
-.card:hover {
-  border-color: #ff6b35;
-}
-
-/* ===== SKILLS TAGS ===== */
-.skill-tag {
-  display: inline-block;
-  background: #1a1a1a;
-  border: 1px solid #ff6b35;
-  color: #ff6b35;
-  padding: 0.3rem 0.8rem;
-  border-radius: 20px;
-  font-size: 0.8rem;
-  font-weight: 600;
-  margin: 0.3rem;
-  letter-spacing: 1px;
-}
-
-/* ===== CONTENT ===== */
-.content {
-  max-width: 900px;
-  margin: 0 auto;
+/* ===== MAIN CONTENT AREA ===== */
+main {
   padding: 2rem;
 }
 
-p {
-  line-height: 1.8;
-  color: #cccccc;
+/* ===== PAGE HERO ===== */
+#hero-heading {
+  padding: 3rem 0 2rem 0;
 }
 
 /* ===== FOOTER ===== */
-footer {
-  border-top: 1px solid #2a2a2a;
-  padding: 2rem;
+footer, .nav-footer {
+  background: rgba(0,0,0,0.3) !important;
+  backdrop-filter: blur(10px);
+  border-top: 1px solid rgba(255,255,255,0.06);
+  color: rgba(255,255,255,0.3);
+  font-size: 0.8rem;
   text-align: center;
-  color: #666666;
-  font-size: 0.85rem;
+  padding: 1.5rem;
 }
