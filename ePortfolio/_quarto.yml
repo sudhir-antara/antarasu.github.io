@@ -30,6 +30,6 @@ website:
 
 format:
   html:
-    theme: darkly
+    theme: none
     css: styles.css
     toc: false
