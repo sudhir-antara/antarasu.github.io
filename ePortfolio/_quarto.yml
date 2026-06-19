@@ -20,6 +20,8 @@ website:
         text: Projects
       - href: credentials.qmd
         text: Credentials & Skills
+      - href: files/Resume_Antara_Sudhir.pdf
+        text: Resume
     right:
       - icon: github
         href: https://github.com/sudhir-antara
