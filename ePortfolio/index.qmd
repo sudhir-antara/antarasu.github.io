@@ -64,6 +64,8 @@ format:
            rel="noopener noreferrer">
            Download Resume
         </a>
+
+        <a href="#contact" class="btn btn-ghost">Get in Touch</a>
       </div>
     </div>
   </section>
